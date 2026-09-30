@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "fullName": "John Doe",
+      "avatar": "https://example.com/photo.jpg",
+      "createdAt": "2026-02-17T10:00:00Z"
+    },
+    {
+      "username": "shamna",
+      "email": "shamna@gmail.com",
+      "password": "sbxbshxbhs",
+      "id": "x7A3rYnJF1M"
+    },
+    {
+      "username": "fathimashamna",
+      "email": "fathishamna@gmail.com",
+      "password": "shamna123",
+      "id": "MKM2n3F6C5k"
+    },
+    {
+      "username": "sabith",
+      "email": "sabithkk@gmail.com",
+      "password": "sabith123",
+      "id": "UVMESMWj87k"
+    },
+    {
+      "username": "fida",
+      "email": "fida@gmail.com",
+      "password": "fida123",
+      "id": "YX7i_hRhbxI"
+    },
+    {
+      "username": "minha",
+      "email": "minha@gmail.com",
+      "password": "1234",
+      "id": "OPh3hohaFlQ"
+    },
+    {
+      "username": "munavar",
+      "email": "munavar@gmail.com",
+      "password": "12345",
+      "id": "n_xshPUW97g"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
